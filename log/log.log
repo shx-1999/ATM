@@ -1,0 +1,8 @@
+
+[2019-11-12 08:48:35,652][MainThread:18840][task_id:name][user.py:40][INFO][用户aaa注册成功]
+[2019-11-12 08:50:30,258][MainThread:22224][task_id:name][user.py:17][INFO][用户aaa登入了账户]
+[2019-11-12 08:50:50,301][MainThread:23720][task_id:name][user.py:17][INFO][用户aaa登入了账户]
+[2019-11-12 08:52:20,505][MainThread:23720][task_id:name][bank.py:37][INFO][aaa向song转账100元]
+[2019-11-12 08:54:32,378][MainThread:23720][task_id:name][bank.py:58][INFO][aaa还款了100元]
+[2019-11-12 08:55:01,534][MainThread:23720][task_id:name][bank.py:76][INFO][你取款了100元，手续费5.0元]
+[2019-11-12 18:06:29,545][MainThread:29448][task_id:name][user.py:17][INFO][用户song登入了账户]
